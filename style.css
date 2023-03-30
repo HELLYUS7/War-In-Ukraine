@@ -75,7 +75,7 @@ body {
 
 #news {
     justify-content: start;
-    height: 1000px;
+    height: 1300px;
     background: rgb(45,45,45);
     background: linear-gradient(0deg, rgba(45,45,45,1) 0%, rgba(5,5,5,1) 100%); 
 }
