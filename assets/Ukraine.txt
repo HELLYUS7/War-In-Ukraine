@@ -1,7 +1,0 @@
-33c30113177d4e7397c67d6e79f6e265
-
-https://newsapi.org/v2/top-headlines?country=us&apiKey=33c30113177d4e7397c67d6e79f6e265
-
-
-Imagem de fundo:
-https://www.google.com/search?q=cen%C3%A1rio%20de%20guerra%20no%20fundo%20png&tbm=isch&hl=pt-BR&tbs=rimg:CRX4rb-PlQljYUNUli8vyvPUsgIOCgIIABAAOgQIARAAQAHAAgA&sa=X&ved=0CBoQuIIBahcKEwjYqvzX8P39AhUAAAAAHQAAAAAQJg&biw=1263&bih=577
